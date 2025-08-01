@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "username": "goonzaa_loo",
+    "timestamp": "2025-08-01 13:55:50",
+    "type": "text",
+    "content": "hola hola",
+    "likes": 5000000000000,
+    "comments": [
+      {
+        "user": "goonzaa_loo",
+        "text": "holaaaaa"
+      },
+      {
+        "user": "goonzaa_loo",
+        "text": "pene"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "goonzaa_loo",
+    "timestamp": "1945-08-01 13:59:10",
+    "type": "image",
+    "content": "maestro_esplinter.icon.jpg",
+    "likes": 90000000000000000,
+    "comments": []
+  },
+  {
+    "id": 3,
+    "username": "goonzaa_loo",
+    "timestamp": "2025-08-01 14:02:28",
+    "type": "image",
+    "content": "tetris.HTML",
+    "likes": 0,
+    "comments": [
+      {
+        "user": "goonzaa_loo",
+        "text": "nononononononono increible y sublime"
+      }
+    ]
+  }
+]
